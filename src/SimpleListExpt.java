@@ -5,6 +5,8 @@ import java.util.function.Predicate;
 
 /**
  * Some simple experiments with SimpleLists
+
+ * @author Samuel Rebelsky
  */
 public class SimpleListExpt {
   // +--------+------------------------------------------------------

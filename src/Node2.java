@@ -1,6 +1,9 @@
 /**
  * Nodes for doubly-linked structures.
+ * 
+ * @author Samuel Rebelsky
  */
+
 public class Node2<T> {
   // +--------+------------------------------------------------------
   // | Fields |
